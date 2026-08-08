@@ -20,9 +20,7 @@ Node* newnode(int x)
 void inOrder(Node* root) 
 {
     if (root == NULL)
-    {
-        return;
-    }
+    return;
     inOrder(root->left);
     printf("%d ", root->data);
     inOrder(root->right);
