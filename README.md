@@ -40,6 +40,8 @@ Data Structures and Algorithms implemented in C.
 gcc FileName.c -o output
 ./output
 
+## Pointer
+
 ## Author
 
 [mdsadmaun-sami](https://github.com/mdsadmaun-sami)
